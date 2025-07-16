@@ -2,7 +2,7 @@
     "name": "KINGDOM PAIRING",
     "description": "A Whatsapp bot, Created by Kingdom",
     "logo": "https://files.catbox.moe/0kwukb.jpg",
-    "repository": "https://github.com/toputech/Flash-Md-Session11/tree/main",
+    "repository": "https://github.com/thekingdommd/kingdom-ai--session-pair-",
     "keywords": ["kingdom"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
